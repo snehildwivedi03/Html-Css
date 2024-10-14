@@ -15,3 +15,17 @@ a[href] {
 a[href^="https"] {
   color: red;
 }
+.profile-link:hover {
+  color: darkblue;
+}
+.profile-list li:nth-child(even) {
+  background-color: aqua;
+}
+p::before {
+  content: "👉";
+  color: orange;
+}
+p::after {
+  content: "🔥";
+  color: red;
+}
