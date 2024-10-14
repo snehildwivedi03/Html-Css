@@ -29,3 +29,14 @@ p::after {
   content: "🔥";
   color: red;
 }
+h1,
+h2,
+p {
+  color: greenyellow;
+}
+div > p {
+  color: peru;
+}
+h2 + p {
+  background-color: black;
+}
