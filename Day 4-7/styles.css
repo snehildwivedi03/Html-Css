@@ -1,5 +1,5 @@
 body {
-  background-color: #ffede1;
+  color: hsl(180, 50%, 100%);
 }
 
 .para1 {
@@ -43,4 +43,12 @@ div > p {
 }
 h2 + p {
   background-color: black;
+}
+.profile-sec {
+  background-color: grey;
+}
+.body {
+  border-width: 5px;
+  border-style: dotted;
+  border-color: black;
 }
