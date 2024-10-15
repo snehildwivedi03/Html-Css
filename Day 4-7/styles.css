@@ -21,6 +21,8 @@ a[href^="https"] {
 }
 .profile-link:hover {
   color: darkblue;
+  text-decoration: underline;
+  font-weight: bold;
 }
 .profile-list li:nth-child(even) {
   background-color: aqua;
@@ -57,4 +59,9 @@ h2 + p {
   border-color: blue;
   border-style: solid;
   border-radius: 10px;
+  text-align: center;
+  text-shadow: 2px 2px 5px gray;
+  line-height: 3.5;
+  letter-spacing: 2px;
+  word-spacing: 5px;
 }
