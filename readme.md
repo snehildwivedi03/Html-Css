@@ -1,12 +1,30 @@
 # 30-Day Web Development Roadmap: HTML, CSS, Tailwind, and Bootstrap
 
-Welcome to the **30-day web development roadmap**, designed to help you master **HTML, CSS, Tailwind**, and **Bootstrap**. This guide will take you through structured learning, hands-on projects, and best practices to build fully responsive and visually appealing websites. Follow this roadmap to develop your web development skills and create amazing projects!
+Welcome to the **30-day web development roadmap**, designed to help you master HTML, CSS, Tailwind, and Bootstrap. This guide will take you through structured learning, hands-on projects, and best practices to build fully responsive and visually appealing websites. Follow this roadmap to develop your web development skills and create amazing projects!
 
 ## Overview
 
 - **Duration:** 30 Days
 - **Goal:** Learn core web development skills and build responsive websites.
 - **Technologies:** HTML, CSS, Tailwind, Bootstrap
+
+---
+
+## Table of Contents
+
+- [Weeks 1-2: HTML & CSS Fundamentals (Days 1-14)](#weeks-1-2-html--css-fundamentals-days-1-14)
+  - [Day 1-3: HTML Basics](#day-1-3-html-basics)
+  - [Day 4-7: CSS Basics](#day-4-7-css-basics)
+  - [Day 8-10: Responsive Design](#day-8-10-responsive-design)
+  - [Day 11-14: First Major Project - Responsive Portfolio Webpage](#day-11-14-first-major-project---responsive-portfolio-webpage)
+- [Week 3: Tailwind CSS (Days 15-21)](#week-3-tailwind-css-days-15-21)
+  - [Day 15-17: Tailwind Basics](#day-15-17-tailwind-basics)
+  - [Day 18-21: Second Major Project - Blog Homepage](#day-18-21-second-major-project---blog-homepage)
+- [Week 4: Bootstrap (Days 22-30)](#week-4-bootstrap-days-22-30)
+  - [Day 22-24: Bootstrap Basics](#day-22-24-bootstrap-basics)
+  - [Day 25-27: Customizing Bootstrap](#day-25-27-customizing-bootstrap)
+  - [Day 28-30: Third Major Project - E-commerce Product Page](#day-28-30-third-major-project---e-commerce-product-page)
+- [Key Projects](#key-projects)
 
 ---
 
@@ -29,17 +47,18 @@ Welcome to the **30-day web development roadmap**, designed to help you master *
 
 ### Day 8-10: Responsive Design
 
-- **Topics:** Media Queries, Responsive Units (`%`, `em`, `rem`, `vh`, `vw`), Mobile-first design.
+- **Topics:** Media Queries, Responsive Units (%, em, rem, vh, vw), Mobile-first design.
 - **Mini-Project:** Make the previous webpage responsive using media queries.
 
 ### Day 11-14: First Major Project - Responsive Portfolio Webpage
 
-- **Requirements:** Use Flexbox, include:
-  - Navbar
-  - About section
-  - Portfolio items grid
-  - Contact form
-- **Goal:** Ensure the page is responsive for mobile, tablet, and desktop.
+- **Requirements:**
+  - Use Flexbox, include:
+    - Navbar
+    - About section
+    - Portfolio items grid
+    - Contact form
+  - **Goal:** Ensure the page is responsive for mobile, tablet, and desktop.
 
 ---
 
@@ -52,10 +71,11 @@ Welcome to the **30-day web development roadmap**, designed to help you master *
 
 ### Day 18-21: Second Major Project - Blog Homepage
 
-- **Requirements:** Create a blog homepage using Tailwind, featuring:
-  - Navbar
-  - Hero section
-  - Grid of blog post previews
+- **Requirements:**
+  - Create a blog homepage using Tailwind, featuring:
+    - Navbar
+    - Hero section
+    - Grid of blog post previews
 
 ---
 
@@ -75,21 +95,22 @@ Welcome to the **30-day web development roadmap**, designed to help you master *
 
 ### Day 28-30: Third Major Project - E-commerce Product Page
 
-- **Requirements:** Use Bootstrap's grid system and components to build a product page with:
-  - Navbar
-  - Product images
-  - Descriptions
-  - Add-to-cart button
-  - Carousel
-- **Goal:** Ensure responsiveness across devices.
+- **Requirements:**
+  - Use Bootstrap's grid system and components to build a product page with:
+    - Navbar
+    - Product images
+    - Descriptions
+    - Add-to-cart button
+    - Carousel
+  - **Goal:** Ensure responsiveness across devices.
 
 ---
 
 ## Key Projects:
 
-- **Portfolio Webpage:** A responsive portfolio showcasing personal work.
-- **Blog Homepage:** A clean, grid-based blog layout.
-- **E-commerce Product Page:** A responsive product page for online shopping.
+1. **Portfolio Webpage:** A responsive portfolio showcasing personal work.
+2. **Blog Homepage:** A clean, grid-based blog layout.
+3. **E-commerce Product Page:** A responsive product page for online shopping.
 
 ---
 
